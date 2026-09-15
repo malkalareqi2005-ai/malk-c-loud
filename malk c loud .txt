@@ -2,3 +2,4 @@ malk.txt
 git add.
 git init
 git push
+git command
